@@ -1,1 +1,2 @@
+-- Your Roblox will crash without a level 7 executor.
 loadstring(game:HttpGet("https://raw.githubusercontent.com/EnCrypted101/Infinite-Yield-Synapse-X-Edition-V1/main/source", true))()
