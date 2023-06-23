@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EnCrypted101/Infinite-Yield-Synapse-X-Edition-V1/main/source", true))()
